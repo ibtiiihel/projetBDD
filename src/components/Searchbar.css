@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@500&display=swap');
+
+.Searchbar{
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0px 20px 2px 15px;
+    left : 70%;
+    top :0%;
+    width: 400px;
+    height: 50px;
+    border: 1px solid #2B3467;
+    border-radius: 131.216px;
+    cursor: text;
+}
+.icon {
+    position: absolute ;
+    top : 4%;
+    left: 90%;
+    font-size: 25px;
+    height: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+input {
+    margin: 10px auto;
+    display:inline;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    font-family: Kumbh Sans;
+    font-size: 18px;
+    line-height: 30px;
+    outline: 0;
+    width: 100%;
+}
+.input{
+    
+    border-radius: 131.216px;
+}
+
+

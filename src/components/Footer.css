@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@500&display=swap');
+.footer {
+   width: 100%;
+   height: 3.5%;
+   padding: 0.5% 0.5%;
+   font-family: "Kumbh Sans", sans-serif;
+   background-color: #1C274C;
+   color: white;
+   text-align: center;
+}
+.footer a{
+    text-decoration: none;
+    color: #ffffff;
+    box-sizing: border-box;
+    padding: 0% 5%;   
+}
+.footer a:hover{
+    color: #de5a65;
+}
